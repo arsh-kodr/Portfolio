@@ -21,7 +21,7 @@ const projects = [
     desc: "Personal portfolio showcasing my journey, skills, and projects with premium animations.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
     github: "https://github.com/arsh-kodr",
-    live: "#",
+    live: "https://portfolio-rho-ochre-fcjx8bmtw7.vercel.app/",
   },
 ];
 
